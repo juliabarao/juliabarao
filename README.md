@@ -1,6 +1,6 @@
 ### Oiii! Eu sou a Júlia Barão 🥰
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas e fazendo um bootcamp de Desenvolvedora Java Jr Full Stack 
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas, Desenvolvedora Java Jr Full Stack formada e buscando mais conhecimentos em Java e Python.
 - 👩🏻 Pronomes: ela/dela
 
  <div>
