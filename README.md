@@ -1,6 +1,8 @@
 ### Oiii! Eu sou a Júlia Barão 🥰
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas, Desenvolvedora Java Jr Full Stack formada e buscando mais conhecimentos em Java e Python.
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 👩🏻‍🎓 Desenvolvedora Java Jr Full Stack formada e buscando mais conhecimentos em Java e Kotlin.
+- 👩🏻‍💻 Estagiária de TI no iti Itaú
 - 👩🏻 Pronomes: ela/dela
 
  <div>
